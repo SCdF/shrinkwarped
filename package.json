@@ -1,0 +1,15 @@
+{
+  "name": "shrinkwarped",
+  "version": "1.0.0",
+  "description": "Testing whether npm shrinkwrap actually ignores all dev dependencies",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "karma": "^1.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
